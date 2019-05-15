@@ -521,8 +521,6 @@ weight = 1
 
 
 
-***附录：***
+## JDK Maven setup env on Ubuntu
 
-*Docker官方文档*
-
-*Kubernetes官方文档*{{%relref "configuration.md"%}})
+[jdk maven env setup on Ubuntu]({{%relref "jdk_maven_env_ubuntu.md"%}})
