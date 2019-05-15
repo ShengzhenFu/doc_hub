@@ -2,7 +2,7 @@
 title = "A Java Tutorial for Beginners"
 description = ""
 weight = 1
-alwaysopen = true
+alwaysopen = false
 
 +++
 

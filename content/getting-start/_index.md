@@ -2,7 +2,7 @@
 title = "Getting started - Doc hub"
 description = ""
 weight = 1
-alwaysopen = true
+alwaysopen = false
 +++
 
 ## Requirements
